@@ -2,7 +2,7 @@
 
 ### Overview
 This repo will hold work on the following advanced python features:
-* Decorators
+* Decorators (finished)
 * Generators
 * TypeHints
 * Collections
